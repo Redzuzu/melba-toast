@@ -10,4 +10,6 @@ only tested on linux with pulse audio
 - ```pip install -r requirements.txt```
 
 
-https://github.com/Redzuzu/melba-toast/raw/main/demo_toast.mp4
+
+https://github.com/Redzuzu/melba-toast/assets/61531193/af7bb3d6-8b88-46d1-93ed-c5bf2923458d
+
